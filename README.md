@@ -14,7 +14,7 @@
 
 ## 安装说明
 
-1. 将插件脚本 `pwn_scanner_advanced.py` 重命名为 `idapwnguard.py`，并放入 IDA Pro 的插件目录（如 `IDA/plugins/`）。  
+1. 将插件脚本IDAPwnGuard.py下载下来，并放入 IDA Pro 的插件目录（如 `IDA/plugins/`）。  
 2. 重启 IDA Pro。  
 3. 打开任意二进制后，按下 **Ctrl+Shift+V** 即可启动 **IDAPwnGuard**。
 
